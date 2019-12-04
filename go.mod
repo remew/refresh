@@ -1,4 +1,4 @@
-module refresh
+module github.com/remew/refresh
 
 go 1.13
 

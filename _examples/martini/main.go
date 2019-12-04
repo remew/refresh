@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/codegangsta/martini"
-	"refresh/runner/runnerutils"
+	"github.com/remew/refresh/runner/runnerutils"
 	"net/http"
 	"os"
 )

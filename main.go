@@ -15,7 +15,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"refresh/runner"
+	"github.com/remew/refresh/runner"
 	"os"
 )
 
