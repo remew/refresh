@@ -127,6 +127,10 @@ func buildPath() string {
 	return p
 }
 
+func ldflags() string {
+	return getenv("LDFLAGS", "")
+}
+
 func buildErrorsFileName() string {
 	return settings["build_log"]
 }
